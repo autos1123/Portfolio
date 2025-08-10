@@ -97,3 +97,29 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# C# / .NET 빌드 출력물
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.cache
+*.config
+*.db
+*.log
+
+# Roslyn 캐시
+*.ide
+
+# Visual Studio Code workspace
+.vscode/
+
+# Resharper / Rider
+_ReSharper*/
+*.DotSettings
+
+# NuGet 패키지
+*.nupkg
+# NuGet 패키지 캐시
+packages/
+
